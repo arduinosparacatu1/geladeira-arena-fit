@@ -1,0 +1,12 @@
+{
+  "name": "geladeira-inteligente-servidor",
+  "version": "1.0.0",
+  "description": "Servidor da geladeira inteligente Arena Fit - Arduinos Paracatu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
